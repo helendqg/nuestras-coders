@@ -1,0 +1,23 @@
+.titulo{
+	font-size:20px;
+}
+.raya{
+	border:1px  black solid;
+	width: 80px;
+}
+.bloque{
+	display: block;
+	width:800px;
+	height:400px;
+}
+.fila{
+	position:relative;
+	display:inline-block;
+	margin:10px;
+}
+.text{
+	position:absolute;
+	bottom:0;
+	right:0;
+	 color:white;
+}
